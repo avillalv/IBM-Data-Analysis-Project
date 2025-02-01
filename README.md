@@ -1,20 +1,24 @@
 # IBM-Data-Analysis-Project -README
 
 ## Project Overview
-This project involves the complete process of data analysis, from data collection to the final presentation. Each module represents a crucial step in transforming raw data into meaningful insights. The final presentation compiles the findings into a clear and compelling story.
+This project aims to uncover insights about programming languages, job trends, demographics, and databases in the IT industry. As technology continues to evolve, staying informed about current and emerging trends is crucial. The analysis leverages data from multiple sources, including job postings, training portals, and developer surveys, to understand developer preferences and the future direction of IT technologies. 
+
+Each module in this project represents a key step in transforming raw data into meaningful insights. The final presentation compiles these findings into a clear and compelling narrative, supported by visualizations and dashboards.
 
 ## Project Structure
 
 ### Part 1: Data Collection
 - Collected data using APIs
 - Scraped web data
-- Explored the dataset
+- Retrieved data from databases
+- Imported CSV files
 
 ### Part 2: Data Wrangling
 - Identified missing values
 - Addressed missing data
 - Found and removed duplicates
 - Normalized the dataset
+- Filtered and cleaned relevant data
 
 ### Part 3: Exploratory Data Analysis
 - Analyzed data distribution
@@ -35,11 +39,17 @@ This project involves the complete process of data analysis, from data collectio
 - Structured data story in a clear and compelling manner
 - Used PowerPoint to present findings with visuals
 
+## Data Sources
+- Public datasets from job postings, training platforms, and surveys
+- Collected using CSV files, APIs, web scraping, and database queries
+
 ## Technologies Used
 - Python
 - Jupyter Notebook
 - Pandas, NumPy
 - Matplotlib, Seaborn
+- IBM Cognos Analytics
+- Microsoft Excel
 - APIs & Web Scraping Tools
 - PowerPoint (for final presentation)
 
@@ -51,5 +61,5 @@ This project involves the complete process of data analysis, from data collectio
 5. Review and execute each part to understand the data analysis process.
 
 ## Final Output
-The final output of this project is a presentation that effectively communicates the findings derived from data analysis. The PowerPoint presentation summarizes the key insights, supported by data visualizations and dashboards.
+The final output of this project is a presentation that effectively communicates the findings derived from data analysis. The PowerPoint presentation summarizes key insights, supported by data visualizations and dashboards, providing valuable information on programming language trends, developer opinions, and IT job market dynamics.
 
