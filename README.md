@@ -31,10 +31,7 @@ Each module in this project represents a key step in transforming raw data into 
 - Compared data trends
 - Created composition charts
 
-### Part 5: Dashboard Creation
-- Developed interactive dashboards to present key insights
-
-### Part 6: Presentation of Findings
+### Part 5: Presentation of Findings
 - Compiled insights into a final presentation
 - Structured data story in a clear and compelling manner
 - Used PowerPoint to present findings with visuals
@@ -64,5 +61,5 @@ Each module in this project represents a key step in transforming raw data into 
 The final output of this project is a presentation that effectively communicates the findings derived from data analysis. The PowerPoint presentation summarizes key insights, supported by data visualizations and dashboards, providing valuable information on programming language trends, developer opinions, and IT job market dynamics.
 
 ### Presentation Link
-You can view the final presentation template here: [Capstone Story Template](https://coursera-assessments.s3.amazonaws.com/assessments/1705167714702/983960c4-9a3b-49e4-bc7b-39e8403ef8ca/capstone-story-template.pdf)
+You can view the final presentation template here: [Project Presentation](./Results/ProjectPresentation.pdf)
 
